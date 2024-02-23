@@ -8,7 +8,7 @@ WORKDIR /app
 RUN apt-get update && apt-get install -y git 
 
 # Clone ParamSpider repository
-RUN git clone https://github.com/devanshbatham/paramspider
+RUN git clone https://github.com/TargetPackage/paramspider
 
 # Change the working directory to the cloned repository
 WORKDIR /app/paramspider

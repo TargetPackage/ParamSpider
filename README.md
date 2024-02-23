@@ -14,7 +14,7 @@
 </p>
 
 
-![paramspider](https://github.com/devanshbatham/ParamSpider/blob/master/static/paramspider.png?raw=true)
+![paramspider](https://github.com/TargetPackage/ParamSpider/blob/master/static/paramspider.png?raw=true)
 
 ## About
 
@@ -25,7 +25,7 @@
 To install `paramspider`, follow these steps:
 
 ```sh
-git clone https://github.com/devanshbatham/paramspider
+git clone https://github.com/TargetPackage/paramspider
 cd paramspider
 pip install .
 ```
